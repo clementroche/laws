@@ -9,3 +9,6 @@ In economics, the Jevons paradox (/ˈdʒɛvənz/; sometimes Jevons' effect) occu
 
 # [Dunning–Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
 The Dunning–Kruger effect is a hypothetical cognitive bias stating that people with low ability at a task overestimate their ability.
+
+# [Survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias)
+Survivorship bias or survival bias is the logical error of concentrating on the people or things that made it past some selection process and overlooking those that did not, typically because of their lack of visibility. This can lead to some false conclusions in several different ways. It is a form of selection bias.
