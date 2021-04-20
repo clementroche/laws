@@ -16,5 +16,5 @@ Survivorship bias or survival bias is the logical error of concentrating on the 
 # [Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
 Parkinson's law is the adage that "work expands so as to fill the time available for its completion".
 
-# [https://en.wikipedia.org/wiki/Wirth%27s_law](https://en.wikipedia.org/wiki/Wirth%27s_law)
+# [Wirth's law](https://en.wikipedia.org/wiki/Wirth%27s_law)
 Wirth's law is an adage on computer performance which states that software is getting slower more rapidly than hardware is becoming faster.
