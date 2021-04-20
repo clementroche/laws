@@ -12,3 +12,6 @@ The Dunning–Kruger effect is a hypothetical cognitive bias stating that people
 
 # [Survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias)
 Survivorship bias or survival bias is the logical error of concentrating on the people or things that made it past some selection process and overlooking those that did not, typically because of their lack of visibility. This can lead to some false conclusions in several different ways. It is a form of selection bias.
+
+# [Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
+Parkinson's law is the adage that "work expands so as to fill the time available for its completion".
