@@ -18,3 +18,6 @@ Parkinson's law is the adage that "work expands so as to fill the time available
 
 # [Wirth's law](https://en.wikipedia.org/wiki/Wirth%27s_law)
 Wirth's law is an adage on computer performance which states that software is getting slower more rapidly than hardware is becoming faster.
+
+# [Curse of knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge)
+The curse of knowledge is a cognitive bias that occurs when an individual, communicating with other individuals, unknowingly assumes that the others have the background to understand. This bias is also called by some authors the curse of expertise.
