@@ -21,3 +21,6 @@ Wirth's law is an adage on computer performance which states that software is ge
 
 # [Curse of knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge)
 The curse of knowledge is a cognitive bias that occurs when an individual, communicating with other individuals, unknowingly assumes that the others have the background to understand. This bias is also called by some authors the curse of expertise.
+
+# [Brandolini's law](https://en.wikipedia.org/wiki/Brandolini%27s_law)
+Brandolini's law, also known as the bullshit asymmetry principle, is an internet adage that emphasizes the effort of debunking misinformation, in comparison to the relative ease of creating it in the first place. It states that "The amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it.
