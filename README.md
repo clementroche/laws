@@ -27,3 +27,5 @@ Brandolini's law, also known as the bullshit asymmetry principle, is an internet
 
 # [Halo effect](https://en.wikipedia.org/wiki/Halo_effect)
 The halo effect (sometimes called the halo error) is the tendency for positive impressions of a person, company, brand, or product in one area to positively influence one's opinion or feelings in other areas. Halo effect is “the name given to the phenomenon whereby evaluators tend to be influenced by their previous judgments of performance or personality.” The halo effect is a cognitive bias which can possibly prevent someone from accepting a person, a product or a brand based on the idea of an unfounded belief on what is good or bad.
+
+# [Prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)
