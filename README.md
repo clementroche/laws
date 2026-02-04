@@ -38,3 +38,7 @@ The halo effect (sometimes called the halo error) is the tendency for positive i
 
 ## [Streisand effect](https://en.wikipedia.org/wiki/Streisand_effect)
 The Streisand effect is the way in which attempts to hide, remove, or censor information can lead to the unintended consequence of increasing awareness of that information.
+
+
+## [Paris syndrome](https://en.wikipedia.org/wiki/Paris_syndrome)
+Paris syndrome (in Japanese: パリ症候群, Pari shōkōgun) is a sense of extreme disappointment exhibited by many individuals when visiting Paris, who feel that the city does not live up to their expectations. The condition is commonly viewed as a severe form of culture shock.[1] The cluster of psychiatric symptoms has been particularly noted among Japanese tourists, perhaps due to the way in which Paris has been idealized in Japanese culture.
